@@ -1,3 +1,3 @@
 # myrepo
-testing my setup
-This is a line from RStudio
+testing my setup 
+# and a second line from my local machine
