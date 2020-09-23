@@ -2,7 +2,7 @@
 title: "an_informative_title_happygitwithr"
 author: "Samuel Burke"
 date: "23/09/2020"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
