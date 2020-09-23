@@ -1,4 +1,4 @@
-an\_informative\_title\_happygitwithr
+Test driving R markdown with Github
 ================
 Samuel Burke
 23/09/2020

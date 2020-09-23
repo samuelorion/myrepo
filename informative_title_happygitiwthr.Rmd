@@ -1,5 +1,5 @@
 ---
-title: "an_informative_title_happygitwithr"
+title: "Test driving R markdown with Github"
 author: "Samuel Burke"
 date: "23/09/2020"
 output: github_document
