@@ -3,15 +3,14 @@ Test driving R markdown with Github
 Samuel Burke
 23/09/2020
 
-## R Markdown
+## My experiments
 
-This is an R Markdown document. Markdown is a simple formatting syntax
-for authoring HTML, PDF, and MS Word documents. For more details on
-using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that
-includes both content as well as the output of any embedded R code
-chunks within the document. You can embed an R code chunk like this:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque
+ipsum est, vehicula malesuada imperdiet sed, pharetra at lorem. Ut
+mollis nibh quam, nec aliquet quam imperdiet id. Donec venenatis at
+libero at hendrerit. Pellentesque dapibus pharetra accumsan. Proin ex
+magna, luctus vitae ultrices a, pellentesque feugiat ligula. Fusce vitae
+ipsum vitae lorem dignissim finibus.
 
 ``` r
 summary(cars)
@@ -25,11 +24,18 @@ summary(cars)
     ##  3rd Qu.:19.0   3rd Qu.: 56.00  
     ##  Max.   :25.0   Max.   :120.00
 
-## Including Plots
+## Plots
 
-You can also embed plots, for example:
+So we do lalalalalalalal alal alala al ala lalla lalalal
+
+``` r
+plot(pressure)
+```
 
 ![](informative_title_happygitiwthr_files/figure-gfm/pressure-1.png)<!-- -->
 
-Note that the `echo = FALSE` parameter was added to the code chunk to
-prevent printing of the R code that generated the plot.
+``` r
+plot(pressure*2)
+```
+
+![](informative_title_happygitiwthr_files/figure-gfm/pressure-2.png)<!-- -->
