@@ -1,6 +1,6 @@
 ## How to ... 
 
-#### add a gif to a .md 
+#### add an image / gif to a .md 
 
 - make a recording ?how
 - convert to gif ?how
