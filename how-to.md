@@ -27,3 +27,26 @@ You need to get the "https:address", such as :
 ![an image](https://github.com/samuelorion/myrepo/blob/master/Untitled_files/figure-gfm/dotchart-1.png)
 ```
 ![an image](https://github.com/samuelorion/myrepo/blob/master/Untitled_files/figure-gfm/dotchart-1.png)
+
+#### Change the image dimensions ... using html 
+
+Copy <img> in browser DevTools. Replace ![](url) to <img>. Add width(and height) attr.  
+
+```
+<img src="my_gif.gif" data-canonical-src="my_gif.gif" width="100" height="100" />
+```
+<img src="my_gif.gif" data-canonical-src="my_gif.gif" width="100" height="100" />
+
+```
+<img src="my_gif.gif" data-canonical-src="my_gif.gif" width="250" />
+```
+<img src="my_gif.gif" data-canonical-src="my_gif.gif" width="250" />
+
+
+or for an external file 
+```
+<img src="https://github.com/samuelorion/myrepo/blob/master/Untitled_files/figure-gfm/dotchart-1.png" data-canonical-src="https://github.com/samuelorion/myrepo/blob/master/Untitled_files/figure-gfm/dotchart-1.png" width="100" height="100" />
+```
+
+
+<img src="https://github.com/samuelorion/myrepo/blob/master/Untitled_files/figure-gfm/dotchart-1.png" data-canonical-src="https://github.com/samuelorion/myrepo/blob/master/Untitled_files/figure-gfm/dotchart-1.png" width="100" height="100" />
